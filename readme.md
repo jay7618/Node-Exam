@@ -61,7 +61,7 @@ If the application requires environment variables, create a `.env` file in the p
 Example:
 
 ```env
-PORT=3000
+PORT=5001
 ```
 
 Add any additional configuration required by your project. Do not commit passwords, API keys, or other secrets.
@@ -78,10 +78,10 @@ Alternatively, use the entry-point file specified by your project.
 
 ### 6. Open the Application
 
-If the application runs locally on port `3000`, open:
+If the application runs locally on port `5001`, open:
 
 ```text
-http://localhost:3000
+http://localhost:5001
 ```
 
 Change the URL or port if your application uses a different configuration.
